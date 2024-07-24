@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "communities",
+  "info": {
+    "name": "community"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
